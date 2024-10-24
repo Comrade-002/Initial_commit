@@ -1,0 +1,51 @@
+#heading1{
+    text-align: center;
+}
+.paragraph{
+    font-family: "Bauhaus 93";
+    font-size: 18px;
+}
+#mydivision{
+    background-color: green;
+    margin: 40px;
+    padding: 30px;
+    color: wheat;
+}
+#test{
+    background-color: wheat;
+    margin: 40px;
+    padding: 40px;
+    display: flex;
+    color: black;
+}
+#test img{
+    margin-right: 40px;
+    border-radius: 400px;
+}
+#main{
+    display: flex;
+}
+#Advertisement{
+    background-color: yellow;
+    color: black;
+    margin-left: 20px;
+    padding: 30px;
+    box-shadow: 10px 8px 8px 4px grey;
+}
+#Accounting{
+    background-color: darkgreen;
+    color: gold;
+    margin-left: 20px;
+    padding: 30px;
+    box-shadow: 10px 8px 8px 4px grey;
+}
+#Payment{
+    background-color: darkred;
+    color: gold;
+    margin-left: 20px;
+    padding: 30px;
+    box-shadow: 10px 8px 8px 4px grey;
+}
+#Advertisement:hover, #Accounting:hover, #Payment:hover{
+    background-color: grey;
+}
